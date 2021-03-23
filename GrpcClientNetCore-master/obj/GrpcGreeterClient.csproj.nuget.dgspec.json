@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Apps\\XAMPP\\htdocs\\New folder\\GrpcClientNetCore-master\\GrpcClientNetCore-master\\GrpcGreeterClient.csproj": {}
+    "D:\\Apps\\XAMPP\\htdocs\\Grpc\\GrpcClientNetCore-master\\GrpcGreeterClient.csproj": {}
   },
   "projects": {
-    "D:\\Apps\\XAMPP\\htdocs\\New folder\\GrpcClientNetCore-master\\GrpcClientNetCore-master\\GrpcGreeterClient.csproj": {
+    "D:\\Apps\\XAMPP\\htdocs\\Grpc\\GrpcClientNetCore-master\\GrpcGreeterClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Apps\\XAMPP\\htdocs\\New folder\\GrpcClientNetCore-master\\GrpcClientNetCore-master\\GrpcGreeterClient.csproj",
+        "projectUniqueName": "D:\\Apps\\XAMPP\\htdocs\\Grpc\\GrpcClientNetCore-master\\GrpcGreeterClient.csproj",
         "projectName": "GrpcGreeterClient",
-        "projectPath": "D:\\Apps\\XAMPP\\htdocs\\New folder\\GrpcClientNetCore-master\\GrpcClientNetCore-master\\GrpcGreeterClient.csproj",
+        "projectPath": "D:\\Apps\\XAMPP\\htdocs\\Grpc\\GrpcClientNetCore-master\\GrpcGreeterClient.csproj",
         "packagesPath": "C:\\Users\\Zakky\\.nuget\\packages\\",
-        "outputPath": "D:\\Apps\\XAMPP\\htdocs\\New folder\\GrpcClientNetCore-master\\GrpcClientNetCore-master\\obj\\",
+        "outputPath": "D:\\Apps\\XAMPP\\htdocs\\Grpc\\GrpcClientNetCore-master\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zakky\\AppData\\Roaming\\NuGet\\NuGet.Config"

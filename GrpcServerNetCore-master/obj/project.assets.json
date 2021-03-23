@@ -742,11 +742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Apps\\XAMPP\\htdocs\\New folder\\GrpcServerNetCore-master\\GrpcServerNetCore-master\\GrpcGreeter.csproj",
+      "projectUniqueName": "D:\\Apps\\XAMPP\\htdocs\\Grpc\\GrpcServerNetCore-master\\GrpcGreeter.csproj",
       "projectName": "GrpcGreeter",
-      "projectPath": "D:\\Apps\\XAMPP\\htdocs\\New folder\\GrpcServerNetCore-master\\GrpcServerNetCore-master\\GrpcGreeter.csproj",
+      "projectPath": "D:\\Apps\\XAMPP\\htdocs\\Grpc\\GrpcServerNetCore-master\\GrpcGreeter.csproj",
       "packagesPath": "C:\\Users\\Zakky\\.nuget\\packages\\",
-      "outputPath": "D:\\Apps\\XAMPP\\htdocs\\New folder\\GrpcServerNetCore-master\\GrpcServerNetCore-master\\obj\\",
+      "outputPath": "D:\\Apps\\XAMPP\\htdocs\\Grpc\\GrpcServerNetCore-master\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zakky\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jc+3GuojrydspAqmHt1/d1QHlIsZGX9qVoTJqomUSSxzsblLCJ3lZGPGk/W8CS5cWntS/IBHj7oLAoFP/acWNg==",
+  "dgSpecHash": "oV+4q6KzEh7HWxkM8Dq0JqfcyTNfH6Cz/AGyYvxIVkHOFQ348VhZbEEt+gIi9FjaBHSDuPRh3W3vN4NealfJkg==",
   "success": true,
-  "projectFilePath": "D:\\Apps\\XAMPP\\htdocs\\New folder\\GrpcClientNetCore-master\\GrpcClientNetCore-master\\GrpcGreeterClient.csproj",
+  "projectFilePath": "D:\\Apps\\XAMPP\\htdocs\\Grpc\\GrpcClientNetCore-master\\GrpcGreeterClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zakky\\.nuget\\packages\\google.protobuf\\3.15.6\\google.protobuf.3.15.6.nupkg.sha512",
     "C:\\Users\\Zakky\\.nuget\\packages\\grpc.core.api\\2.36.1\\grpc.core.api.2.36.1.nupkg.sha512",

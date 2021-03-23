@@ -124,3 +124,45 @@ D:\Apps\XAMPP\htdocs\New folder\GrpcClientNetCore-master\GrpcClientNetCore-maste
 D:\Apps\XAMPP\htdocs\New folder\GrpcClientNetCore-master\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.dll
 D:\Apps\XAMPP\htdocs\New folder\GrpcClientNetCore-master\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.pdb
 D:\Apps\XAMPP\htdocs\New folder\GrpcClientNetCore-master\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.genruntimeconfig.cache
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\bin\Debug\netcoreapp3.1\GrpcGreeterClient.exe
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\bin\Debug\netcoreapp3.1\GrpcGreeterClient.deps.json
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\bin\Debug\netcoreapp3.1\GrpcGreeterClient.runtimeconfig.json
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\bin\Debug\netcoreapp3.1\GrpcGreeterClient.runtimeconfig.dev.json
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\bin\Debug\netcoreapp3.1\GrpcGreeterClient.dll
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\bin\Debug\netcoreapp3.1\GrpcGreeterClient.pdb
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\bin\Debug\netcoreapp3.1\GrpcGreeterClient.Views.dll
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\bin\Debug\netcoreapp3.1\GrpcGreeterClient.Views.pdb
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.csprojAssemblyReference.cache
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.AssemblyInfoInputs.cache
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.AssemblyInfo.cs
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.csproj.CoreCompileInputs.cache
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.MvcApplicationPartsAssemblyInfo.cache
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.RazorAssemblyInfo.cache
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.RazorAssemblyInfo.cs
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.TagHelpers.input.cache
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.TagHelpers.output.cache
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.RazorCoreGenerate.cache
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.RazorTargetAssemblyInfo.cache
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.RazorTargetAssemblyInfo.cs
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.Views.pdb
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.csproj.CopyComplete
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\staticwebassets\GrpcGreeterClient.StaticWebAssets.Manifest.cache
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\staticwebassets\GrpcGreeterClient.StaticWebAssets.xml
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.dll
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.pdb
+D:\Apps\XAMPP\htdocs\Grpc\GrpcClientNetCore-master\obj\Debug\netcoreapp3.1\GrpcGreeterClient.genruntimeconfig.cache
