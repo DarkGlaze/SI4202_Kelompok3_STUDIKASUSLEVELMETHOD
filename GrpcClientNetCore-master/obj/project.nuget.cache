@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jc+3GuojrydspAqmHt1/d1QHlIsZGX9qVoTJqomUSSxzsblLCJ3lZGPGk/W8CS5cWntS/IBHj7oLAoFP/acWNg==",
+  "success": true,
+  "projectFilePath": "D:\\Apps\\XAMPP\\htdocs\\New folder\\GrpcClientNetCore-master\\GrpcClientNetCore-master\\GrpcGreeterClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zakky\\.nuget\\packages\\google.protobuf\\3.15.6\\google.protobuf.3.15.6.nupkg.sha512",
+    "C:\\Users\\Zakky\\.nuget\\packages\\grpc.core.api\\2.36.1\\grpc.core.api.2.36.1.nupkg.sha512",
+    "C:\\Users\\Zakky\\.nuget\\packages\\grpc.net.client\\2.36.0\\grpc.net.client.2.36.0.nupkg.sha512",
+    "C:\\Users\\Zakky\\.nuget\\packages\\grpc.net.common\\2.36.0\\grpc.net.common.2.36.0.nupkg.sha512",
+    "C:\\Users\\Zakky\\.nuget\\packages\\grpc.tools\\2.36.4\\grpc.tools.2.36.4.nupkg.sha512",
+    "C:\\Users\\Zakky\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\Zakky\\.nuget\\packages\\mysqlconnector\\1.0.1\\mysqlconnector.1.0.1.nupkg.sha512",
+    "C:\\Users\\Zakky\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\Zakky\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Zakky\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
